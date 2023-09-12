@@ -1,0 +1,14 @@
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\bin\Debug\net7.0\Mais_Um_Exercicio.exe
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\bin\Debug\net7.0\Mais_Um_Exercicio.deps.json
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\bin\Debug\net7.0\Mais_Um_Exercicio.runtimeconfig.json
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\bin\Debug\net7.0\Mais_Um_Exercicio.dll
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\bin\Debug\net7.0\Mais_Um_Exercicio.pdb
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.AssemblyInfoInputs.cache
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.AssemblyInfo.cs
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.dll
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\refint\Mais_Um_Exercicio.dll
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.pdb
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\Mais_Um_Exercicio.genruntimeconfig.cache
+C:\Users\kugao\Desktop\Mais_Um_Exercicio\obj\Debug\net7.0\ref\Mais_Um_Exercicio.dll
